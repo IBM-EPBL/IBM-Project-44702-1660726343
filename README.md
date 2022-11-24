@@ -22,4 +22,4 @@ Fire accidents in an industry causes huge losses in an both financial and lives.
 
 Demo link
 
-https://youtu.be/iyDBF804vjw
+
