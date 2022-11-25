@@ -21,5 +21,6 @@ Faculty Mentor's Name: Newton David Raj W
 Fire accidents in an industry causes huge losses in an both financial and lives. Thus Industry specific intelligent fire management system can help avoiding these accidents. This project will contains all the files and codes to solve these problems.
 
 Demo link
+https://youtu.be/Qw2rSioVVvc
 
 
