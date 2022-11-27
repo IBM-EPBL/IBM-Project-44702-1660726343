@@ -14,7 +14,7 @@ Team Member 2: Ganga R
 
 Team Member 3: Ishwarya K
 
-**Industry Mentor's Name: Santoshi   
+**Industry Mentor's Name:Bharadwaj   
 **
 Faculty Mentor's Name: Newton David Raj W
 
